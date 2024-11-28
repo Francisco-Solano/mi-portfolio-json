@@ -36,7 +36,7 @@
     {
       "name": "CompanyName",
       "position": "Intership",
-      "url": "https://twitch.tv/midudev",
+      "url": "",
       "startDate": "2021-01-01",
       "endDate": null,
       "summary": "Internship organized by the Higher Degree program in companyName.",
@@ -44,17 +44,7 @@
         "Started the Intership"
       ]
     },
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
+   
     {
       "name": "",
       "position": "",
