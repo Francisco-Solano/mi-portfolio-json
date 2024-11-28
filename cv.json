@@ -21,7 +21,7 @@
         "url": "https://www.linkedin.com/in/francisco-solano-le%C3%B3n-mu%C3%B1oz-99026a277/"
       },
       {
-        "network": "X",
+        "network": "",
         "username": "",
         "url": ""
       },
@@ -45,24 +45,24 @@
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "",
+      "position": "ç",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     }
   ],
@@ -152,10 +152,10 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Server"
+        ""
       ]
     },
     {
@@ -180,17 +180,17 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        ""
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        ""
       ]
     }
   ],
@@ -206,66 +206,66 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Sports",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Basketball",
+        "Boxing"
       ]
     }
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Private Chat",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Private chat server-client that could be expanded to a group chat",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "",
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/Francisco-Solano/Chat-Privado-Cliente"
     },
     {
-      "name": "AdventJS",
+      "name": "Fall Guys",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "A recreation of a level from Fall Guys, created in Unity.",
       "highlights": [
         "+1 million visits",
         "Multilanguage",
-        "JavaScript & TypeScript"
+        "C# & Vs Code"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://github.com/Francisco-Solano/FallGuys"
     },
     {
-      "name": "Codember",
+      "name": "Andoid Book App",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Android application to organize books",
       "highlights": [
         "+2000 active users",
         "Challenges for any language"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/Francisco-Solano/Proyecto2EVMultimedia"
     },
     {
-      "name": "codi.link",
+      "name": "Counter App in FLutter",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "An easy counter app realized in Flutter",
       "highlights": [
         "100k monthly visit",
         "Developed by the community"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://github.com/Francisco-Solano/LeonMunozA02",
+      "github": "https://github.com/Francisco-Solano/LeonMunozA02"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "CV in HTML",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "A basic CV realized using HTML and CSS",
       "highlights": [
         "100% free",
         "+500 community solutions"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/escuelafrontend/pruebas-tecnicas"
+      "url": "https://github.com/Francisco-Solano/Curriculum",
+      "github": "https://github.com/Francisco-Solano/Curriculum"
     }
   ]
 }
