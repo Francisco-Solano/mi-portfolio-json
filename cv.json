@@ -1,47 +1,47 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Francisco!",
+    "label": "Higher technician in Multi-platform application Development.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "franciscosolanoleon@gmail.com",
+    "phone": "+34 655563076",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Computer Scientist with Knowledge of Various Languages like Python and JavaScript, but specialized in Java. I am passionate about programming, cybersecurity, and video game development. I am looking to apply my knowledge in an environment that values learning and adaptability in any situation.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Federico García Lorca",
+      "postalCode": "41005",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Francisco Solano",
+        "url": "https://www.linkedin.com/in/francisco-solano-le%C3%B3n-mu%C3%B1oz-99026a277/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "",
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Francisco-Solano",
+        "url": "https://github.com/Francisco-Solano"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
+      "name": "CompanyName",
+      "position": "Intership",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Internship organized by the Higher Degree program in companyName.",
       "highlights": [
-        "Started the company"
+        "Started the Intership"
       ]
     },
     {
@@ -68,123 +68,108 @@
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
+      "name": "Nicolás Gonzalez",
       "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "url": "https://nicolasGithuburl",
+      "position": "A colleague who is currently studying in the same place as I am.",
       "contact": [
         "Phone: +34611223345",
-        "Email: VY5q8@example.com"
+        "Email: nicolas.gonzalezespinosa@a.vedrunasevillasj.es"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Ricardo Álamo",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "https://www.linkedin.com/in/ricardo-%C3%A1lamo-fern%C3%A1ndez-2a9782292/",
+      "position": "Junior Developer in .net",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Higher Degree in Multiplatform Application Development in Santa Joaquina de Vedruna.",
+      "url": "https://vedrunasevilla.org/",
+      "area": "DAM",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "score": "10.0",
+      "courses": [
+        "2255 - Computer Systems",
+        "2256 - Databases",
+        "2257 - Programming",
+        "2195 - Markup Languages and Information Management Systems",
+        "2258 - Development Environments",
+        "1245 - Training and Career Guidance",
+        "2259 - Data Access",
+        "2260 - Interface Development",
+        "2022 - Business and Entrepreneurial Initiative",
+        "2262 - Services and Process Programming",
+        "2261 - Multimedia Programming and Mobile Devices",
+        "2263 - Enterprise Management Systems + HLC*",
+        "1244 - Workplace Training",
+        "2264 - Multiplatform Application Development Project"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Java",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Back development", "Backend", "Java Programming", "Java Frameworks"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "Python",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web development", "Frontend", "Backend", "Scripting"
       ]
     },
     {
       "name": "Node",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version control", "Collaboration", "Source code"
       ]
     },
     {
@@ -219,13 +204,15 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",
@@ -278,16 +265,7 @@
         "+500 community solutions"
       ],
       "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/escuelafrontend/pruebas-tecnicas"
     }
   ]
 }
